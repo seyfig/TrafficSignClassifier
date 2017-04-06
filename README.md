@@ -5,7 +5,7 @@ Overview
 ---
 In this project, I trained a convolutional neural network to classify traffic signs using the German Traffic Sign Dataset. After training the model, I tried out the model on the images that I capture in Turkey.
 
-I completed the project using Ipython notebook, and TensorFlow.
+I completed the project using Ipython notebook, which is saved as [HTML](https://seyfig.github.io/TrafficSignClassifier/), and TensorFlow.
 
 The Project
 ---
