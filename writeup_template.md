@@ -15,6 +15,7 @@ The goals/steps of this project are the following:
 
 [image1]: ./output_images/KeepRight.jpeg "Sample Traffic Sign"
 [image2]: ./output_images/visualization.jpg "Visualization"
+[image3]: ./output_images/grayscale.jpg "Grayscaling"
 
 
 ## Rubric Points
@@ -46,8 +47,18 @@ The code for this step is contained in the seventh code cell of the IPython note
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed between classes.
 ![alt text][image2]
 
-TODO
+
 
 ###Design and Test a Model Architecture
+
+####1. Describe how, and identify where in your code, you preprocessed the image data. What tecniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc.
+
+As a first step, the traffic signs were converted to grayscale with the code which is contained in the eighth code cell of the IPython notebook.
+
+Here is an example of a traffic sign image before and after grayscaling.
+
+![alt text][image3]
+
+TODO
 
 ###Test a Model on New Images
